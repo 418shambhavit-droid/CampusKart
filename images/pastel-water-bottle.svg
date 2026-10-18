@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 360 360">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#faf8f2"/><stop offset="1" stop-color="#eee9dd"/></linearGradient><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a64d69"/><stop offset=".25" stop-color="#f3cbd5"/><stop offset=".58" stop-color="#f3cbd5"/><stop offset="1" stop-color="#a64d69"/></linearGradient></defs>
+<rect width="360" height="360" rx="22" fill="url(#bg)"/><ellipse cx="180" cy="321" rx="78" ry="12" fill="#d6d0c4" opacity=".7"/>
+<g fill="url(#b)" stroke="#a64d69" stroke-width="2"><path d="M150 59h60v24h16v21c0 12 13 21 13 37v151c0 17-12 29-29 29h-60c-17 0-29-12-29-29V141c0-16 13-25 13-37V83h16z"/></g>
+<rect x="150" y="45" width="60" height="24" rx="5" fill="#a64d69"/><rect x="158" y="39" width="44" height="10" rx="3" fill="#f3cbd5" stroke="#a64d69" stroke-width="2"/>
+<path d="M137 142v134c0 7 3 12 8 15" fill="none" stroke="#fff" stroke-width="7" opacity=".55" stroke-linecap="round"/>
+<rect x="125" y="174" width="110" height="53" rx="8" fill="#fff" opacity=".86"/><text x="180" y="195" font-family="Arial,sans-serif" font-size="10" font-weight="700" text-anchor="middle" fill="#a64d69">CAMPUSKART</text><text x="180" y="212" font-family="Arial,sans-serif" font-size="8" letter-spacing="1.3" text-anchor="middle" fill="#a64d69">PASTEL BOTTLE</text>
+</svg>
